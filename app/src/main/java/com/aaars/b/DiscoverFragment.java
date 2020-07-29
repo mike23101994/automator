@@ -31,6 +31,7 @@ public class DiscoverFragment extends Fragment {
     private List<Data> data;
     private RecyclerView rv;
 
+   
     public DiscoverFragment() {
         // Required empty public constructor
     }
